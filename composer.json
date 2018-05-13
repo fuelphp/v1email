@@ -19,6 +19,9 @@
 	"autoload": {
 		"psr-4": {
 			"Fuel\\Email\\": "classes/"
-		}
+		},
+		"files": [
+			"src/bootstrap.php"
+		]
 	}
 }
